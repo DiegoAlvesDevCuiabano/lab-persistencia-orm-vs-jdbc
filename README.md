@@ -16,7 +16,7 @@ Este lab existe para provar:
 - Capacidade de decidir entre lógica no banco ou na aplicação
 - Análise crítica de impacto de volume, custo e arquitetura
 
-O foco **não é framework**, mas **engenharia**.
+> O foco **não é framework**, mas **engenharia**.
 
 ## 🧱 Estrutura Geral
 
