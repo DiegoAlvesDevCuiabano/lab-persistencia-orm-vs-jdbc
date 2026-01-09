@@ -1,0 +1,8 @@
+CREATE TABLE registro_evento (
+     id BIGINT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+     tipo VARCHAR(50) NOT NULL,
+     status VARCHAR(30) NOT NULL,
+     descricao VARCHAR(255) NOT NULL,
+     ativo TINYINT(1) NOT NULL,
+     data_criacao TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
