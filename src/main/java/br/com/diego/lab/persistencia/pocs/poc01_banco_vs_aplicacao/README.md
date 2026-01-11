@@ -25,7 +25,7 @@ Um objetivo adicional é evidenciar **problemas arquiteturais comuns que passam 
 
 ## Stack utilizada
 
-* Java 24
+* Java 21
 * Spring Boot 3.5.9
 * JPA / Hibernate 6.6
 * JdbcTemplate
